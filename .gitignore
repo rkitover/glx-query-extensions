@@ -1,0 +1,6 @@
+# Vim
+.*.sw?
+.*.un~
+
+# Executable
+glx-query-extensions
